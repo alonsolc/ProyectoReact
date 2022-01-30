@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const route = "http://localhost:3000/api";
+//const route = "http://localhost:3001/api";
+const route = "http://18.210.95.163:3001/api";
 
 class serviceMainUsers {
 
